@@ -24,6 +24,7 @@ This software is OSI Certified Open Source Software. OSI Certified is a certific
 - [Get the official JDownloader2 browser extension (requires MyJDownloader account)](https://chrome.google.com/webstore/detail/myjdownloader-browser-ext/fbcohnmimjicjdomonkcbcpbpnhggkip) (optional)
 - [Get the unofficial JDownloader2 browser extension](https://chrome.google.com/webstore/detail/download-with-jdownloader/jfpmbokkdeapjommajdfmmheiiakdlgo) (optional, [NodeJS Native Client for JDownloader2 unofficial extension GitHub](https://github.com/belaviyo/native-client/releases), [Instructions video](https://www.youtube.com/watch?v=vSnZp2wflTc))
 - [JDownloader HTTP API plugin](https://github.com/nemec/JDHttpAPI) (CLI only, e.g. via `curl`, not currently included. JDownloader 1 had an HTTP GUI, useful for servers)
+- [EventScripter Script to Re-Apply Dark Theme After Updates](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/issues/32) (could potentially be adapted to keep unofficial plugins after updates, too?)
 
 ## Portable App Issues
 
