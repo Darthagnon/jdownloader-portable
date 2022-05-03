@@ -23,6 +23,7 @@ This software is OSI Certified Open Source Software. OSI Certified is a certific
 - [Remotely manage your JDownloader downloads @ MyJDownloader](https://my.jdownloader.org/login.html) (optional)
 - [Get the official JDownloader2 browser extension (requires MyJDownloader account)](https://chrome.google.com/webstore/detail/myjdownloader-browser-ext/fbcohnmimjicjdomonkcbcpbpnhggkip) (optional)
 - [Get the unofficial JDownloader2 browser extension](https://chrome.google.com/webstore/detail/download-with-jdownloader/jfpmbokkdeapjommajdfmmheiiakdlgo) (optional, [NodeJS Native Client for JDownloader2 unofficial extension GitHub](https://github.com/belaviyo/native-client/releases), [Instructions video](https://www.youtube.com/watch?v=vSnZp2wflTc))
+- [JDownloader HTTP API plugin](https://github.com/nemec/JDHttpAPI) (CLI only, e.g. via `curl`, not currently included. JDownloader 1 had an HTTP GUI, useful for servers)
 
 ## Portable App Issues
 
